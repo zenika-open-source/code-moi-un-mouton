@@ -1,10 +1,10 @@
-# Pré-requis :
+# Pré-requis
 
 Faire effectuer un travail préparatoire par les instituteurs/institutrices pour illustrer la notion d'algorithme via un enchaînement d’actions.
 
 Cela permet aux instituteurs/institutrices de s’impliquer au plus tôt.
 
-## Atelier préparatoire :
+## Atelier préparatoire
 
 Définir un zonage dans la salle de classe pour délimiter l’espace pouvant être emprunté.
 
@@ -34,7 +34,7 @@ Le but est de mettre en évidence que le binôme doit s’entendre sur la longue
 - faire un pas de côté sur la droite
 - faire un pas de côté sur la gauche
 
-Ce que l’on peut relever c’est que l’action “faire un pas de côté sur la droite” permet d’économiser des actions car en une action on réalise en fait “tourner d’un quart de tour à droite”, “faire un pas en avant” et “tourner d’un quart de tour à gauche”. 
+Ce que l’on peut relever c’est que l’action “faire un pas de côté sur la droite” permet d’économiser des actions car en une action on réalise en fait “tourner d’un quart de tour à droite”, “faire un pas en avant” et “tourner d’un quart de tour à gauche”.
 
 \#4 Quelques binômes passent en ayant la possibilité de :
 
