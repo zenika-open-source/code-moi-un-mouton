@@ -18,17 +18,17 @@ Le parent ayant un/des enfant(s) scolarisé(s) dans cette école peut profiter d
 
 Expliquer la démarche, le pourquoi vous faites cela. Lui proposer de lui envoyer un mail qui formalise cela.
 
-Il est important de savoir que certaines entreprises veulent accéder aux enfants dans l’objectif de faire du prosélytisme, ce n’est absolument pas notre objectif et il faut être clair sur ce point : nous ne vendons rien, ne représentons aucun [lobby](http://www.liberation.fr/france/2016/11/14/le-lobby-de-la-viande-s-invite-a-l-ecole_1528280), ne prendrons pas de photo d’enfants… C’est du bénévolat avec pour seul objectif de faire en sorte que les enfants découvre le code et sache que c’est accessible quelque soit le genre et l’origine.
+Il est important de savoir que certaines entreprises veulent accéder aux enfants dans l’objectif de faire du prosélytisme, ce n’est absolument pas notre objectif et il faut être clair sur ce point : nous ne vendons rien, ne représentons aucun [lobby](http://www.liberation.fr/france/2016/11/14/le-lobby-de-la-viande-s-invite-a-l-ecole_1528280), ne prendrons pas de photo d’enfants… C’est du bénévolat avec pour seul objectif de faire en sorte que les enfants découvrent le code et sache que c’est accessible quelque soit le genre et l’origine.
 
 ## 4. Envoyer le mail type d’explication à la directrice (ou le directeur)
 
 Ce mail est à personnaliser en fonction du contexte. Il est à envoyer rapidement suite au premier contact.
 
-Vous pouvez avoir un non à cette étape, ce n’est pas grave, la/au directrice/eur a d'excellentes raisons de ne pas donner suite à cette démarche. Peut être d’autres écoles seront intéressés.
+Vous pouvez avoir un non à cette étape, ce n’est pas grave, la/au directrice/eur a d'excellentes raisons de ne pas donner suite à cette démarche. Peut être d’autres écoles seront intéressées.
 
 ## 5. [OPTIONNEL] Re-contacter la directrice (ou le directeur) en cas de non réponse
 
-Si vous n’avez pas eu de retour d’ici une 10aines de jours recontacter la directrice (ou le directeur) pour savoir si il a pu lire votre mail et si il a des questions ou besoin d’une explication plus détaillée
+Si vous n’avez pas eu de retour d’ici une dizaine de jours recontacter la directrice (ou le directeur) pour savoir si il a pu lire votre mail et si il a des questions ou besoin d’une explication plus détaillée
 
 ## 6. [OPTIONNEL] Expliquer oralement les objectifs et la démarche
 
@@ -44,19 +44,19 @@ Cette rencontre doit permettre de :
 - répondre aux interrogations de l’équipe pédagogique
 - partager la nécessité de l’implications de l’équipe pédagogique
 - expliquer le modèle théorique (½ groupe avec la présence du professeur) et commencer à réfléchir sur comment le mettre en oeuvre avec les différentes contraintes de chacun
-- identifier les besoins en matériel (salle, pc, Scratch, Thymio, vidéo projecteur, …)
+- identifier les besoins en matériel (salle, pc, Scratch, Thymio, vidéo projecteur…)
 
 ## 8. [OPTIONNEL] Monter avec l’équipe enseignante le dossier pédagogique
 
-Selon le contexte un dossier pédagogique peut être nécessaire. Nous n'avons pas pour l’instant d'élément à partager sur ce point.
+Selon le contexte un dossier pédagogique peut être nécessaire. Nous n'avons pas pour l’instant d'éléments à partager sur ce point.
 
 ## 9. [OPTIONNEL] Organiser un atelier de présentation du contenu avec les enseignants. (Présentation de Thymio + Scratch)
 
-Si le planning le permet il est bien de faire un atelier présentant plus en détail les ateliers afin que tous puissent commencer à se familiariser avec le matériel et le contenu des ateliers. Cela peut permettre aussi d’anticiper certain problème (ex : mauvaise version de Scratch).
+Si le planning le permet il est bien de faire un atelier présentant plus en détail les ateliers afin que tous puissent commencer à se familiariser avec le matériel et le contenu des ateliers. Cela peut permettre aussi d’anticiper certains problèmes (ex : mauvaise version de Scratch).
 
-## 10. Valider entre intervenant les disponibilités de chacun
+## 10. Valider entre intervenants les disponibilités de chacun
 
-L’objectif est de connaître la capacité d’intervention des différents consultant et d’anticiper bien en avance les éventuels aménagement à réaliser dans l’emploi du temps de chacun.
+L’objectif est de connaître la capacité d’intervention des différents consultants et d’anticiper bien en avance les éventuels aménagements à réaliser dans l’emploi du temps de chacun.
 
 ## 11. Préparer entre intervenants les ateliers
 
@@ -115,7 +115,7 @@ Voir [atelier Thymio](ateliers/atelier_Thymio.md) et [atelier Scratch](ateliers/
 
 ## 13. Entre chaque ateliers faire une synthèse de ce qui c’est passé
 
-Ceci afin de de partager ces moments et améliorer les prochains ateliers
+Ceci afin de partager ces moments et améliorer les prochains ateliers
 
 ## 14. A la fin des ateliers faire une rétrospective avec les enseignants et les intervenants
 
