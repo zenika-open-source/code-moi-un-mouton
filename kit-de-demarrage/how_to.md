@@ -20,7 +20,7 @@ Expliquer la démarche, le pourquoi vous faites cela. Lui proposer de lui envoye
 
 Il est important de savoir que certaines entreprises veulent accéder aux enfants dans l’objectif de faire du prosélytisme, ce n’est absolument pas notre objectif et il faut être clair sur ce point : nous ne vendons rien, ne représentons aucun [lobby](http://www.liberation.fr/france/2016/11/14/le-lobby-de-la-viande-s-invite-a-l-ecole_1528280), ne prendrons pas de photo d’enfants… C’est du bénévolat avec pour seul objectif de faire en sorte que les enfants découvrent le code et sache que c’est accessible quelque soit le genre et l’origine.
 
-## 4. Envoyer le mail type d’explication à la directrice (ou le directeur)
+## 4. Envoyer le mail type d’explication à la directrice (ou au directeur)
 
 Ce mail est à personnaliser en fonction du contexte. Il est à envoyer rapidement suite au premier contact.
 
@@ -48,7 +48,7 @@ Cette rencontre doit permettre de :
 
 ## 8. [OPTIONNEL] Monter avec l’équipe enseignante le dossier pédagogique
 
-Selon le contexte un dossier pédagogique peut être nécessaire. Nous n'avons pas pour l’instant d'éléments à partager sur ce point.
+Selon le contexte un dossier pédagogique peut être nécessaire. Nous n'avons pas pour l’instant d'élément à partager sur ce point.
 
 ## 9. [OPTIONNEL] Organiser un atelier de présentation du contenu avec les enseignants. (Présentation de Thymio + Scratch)
 
@@ -71,8 +71,6 @@ L’objectif de cette phase est de s’aligner
 - le planning des ateliers
 - la taille du groupe
 - le rôle des participants
-
-Pour l’expérimentation voici ce que nous avions planifier :
 
 Organisation des ateliers :
 
