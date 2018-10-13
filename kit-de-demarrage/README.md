@@ -4,6 +4,7 @@ Le kit de démarrage vous permet de disposer des principales ressources (mails t
 
 ## How to
 Véritable guide des grandes étapes de votre projet.
+[How to](how_to.md)
 
 ## Mail de contact
 Un exemple de mail à envoyer aux écoles pour entrer en contact et présenter votre démarche.

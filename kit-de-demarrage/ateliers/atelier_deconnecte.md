@@ -1,6 +1,6 @@
-## Déconnecté
+# Déconnecté
 
-### Présentation des activités déconnectés
+## Présentation des activités déconnectés
 
 Ce sont des activités qui sont réalisées sans ordinateur. Ces activités permettent de comprendre des concepts liés à l’informatique.
 
