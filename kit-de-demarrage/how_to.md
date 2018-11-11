@@ -16,7 +16,7 @@ Demandez aux personnes intéressées par la démarche qui ont des enfants en pri
 
 Le parent ayant un/des enfant(s) scolarisé(s) dans cette école peut profiter d’une sortie ou rentré d’école pour l’aborder ou prendre rendez vous.
 
-Expliquer la démarche, le pourquoi vous faites cela. Lui proposer de lui envoyer un mail qui formalise cela.
+Expliquer la démarche, le pourquoi vous faites cela. Lui proposer de lui envoyer un [mail](emails/email_prise_contact_ecole.md) qui formalise cela.
 
 Il est important de savoir que certaines entreprises veulent accéder aux enfants dans l’objectif de faire du prosélytisme, ce n’est absolument pas notre objectif et il faut être clair sur ce point : nous ne vendons rien, ne représentons aucun [lobby](http://www.liberation.fr/france/2016/11/14/le-lobby-de-la-viande-s-invite-a-l-ecole_1528280), ne prendrons pas de photo d’enfants… C’est du bénévolat avec pour seul objectif de faire en sorte que les enfants découvrent le code et sache que c’est accessible quelque soit le genre et l’origine.
 
