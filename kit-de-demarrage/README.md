@@ -7,7 +7,7 @@ Véritable guide des grandes étapes de votre projet.
 [How to](how_to.md)
 
 ## Mail de contact
-Un exemple de mail à envoyer aux écoles pour entrer en contact et présenter votre démarche.
+Un exemple de [mail](emails/email_prise_contact_ecole.md) à envoyer aux écoles pour entrer en contact et présenter votre démarche.
 
 ## Mail de présentation des ateliers
 Un exemple de mail à envoyer aux écoles pour présenter le type d'animation que vous proposez.
