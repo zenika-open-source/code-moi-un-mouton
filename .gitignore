@@ -1,3 +1,6 @@
 # IntellJ
 .idea
 *.iml
+
+# Finder MACOS preferences
+.DS_Store
