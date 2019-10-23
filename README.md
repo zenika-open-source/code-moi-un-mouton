@@ -7,3 +7,6 @@ Il y a deux sous dossiers qui correspondent aux :
 
 ## Katas Scratch
 Parce que l'on peut faire aussi faire des [katas](tz) et du clean code avec Scratch.
+
+## Thymio
+[Exemples d'exercices](ateliers/thymio) que vous proposer pour programmer des robots Thymio
