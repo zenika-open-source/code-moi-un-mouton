@@ -16,7 +16,7 @@ Voici en quelques lignes ce que nous voudrions réaliser avec vous :
 Tout élève de primaire sachant lire et écrire (typiquement du CE1 au CM2).
 
 **Quoi ?**
-Nous pouvons proposer de base deux ateliers par demi-journée (soit 3 à 4 heures au total par élève). À ajuster avec les possibilités des enseignants.
+Nous pouvons proposer de base [deux] atelier[s] par [demi-journée] (soit [3 à 4 heures] au total par élève). À ajuster avec les possibilités des enseignants.
 
 **Où ?**
 Directement au sein de l'école.
