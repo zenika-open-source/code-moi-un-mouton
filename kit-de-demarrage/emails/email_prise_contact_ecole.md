@@ -37,6 +37,6 @@ Nous souhaitons sensibiliser et permettre à tous les enfants de se familiariser
 Merci pour votre attention.
 Je suis disponible pour toute précision supplémentaire.
 
-À bientôt,
+Cordialement,
 [Signature]
 [Papa/Maman de XXXX en CM1]
