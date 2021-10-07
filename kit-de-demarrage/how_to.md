@@ -109,7 +109,7 @@ A titre d'exemple voici les dates des ateliers réalisés dans la première édi
 
 ## 12. Réaliser les ateliers
 
-Voir [atelier Thymio](ateliers/atelier_Thymio.md) et [atelier Scratch](ateliers/atelier_Scratch.md)
+Voir [atelier Thymio](ateliers/atelier_thymio.md) et [atelier Scratch](ateliers/atelier_scratch.md)
 
 ## 13. Entre chaque ateliers faire une synthèse de ce qui c’est passé
 
