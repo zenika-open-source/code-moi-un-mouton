@@ -4,9 +4,29 @@ Faire effectuer un travail préparatoire par les instituteurs/institutrices pour
 
 Cela permet aux instituteurs/institutrices de s’impliquer au plus tôt.
 
+Cet atelier peut aussi être animé par les intervenants Zenika. Cela permet de faire connaissance avec les élèves et de se familiariser avec les classes.
+
+## Présentations
+(30 minutes environ)
+
+Dans la classe, avec tous les élèves, lors de la 1e rencontre.
+
+\# 1. Chaque intervenant se présente. Des idées pour se présenter :
+- Décrire son travail de tous les jours ou ce qu’on a pu déjà réaliser dans le passé (utiliser des mots compréhensibles par les enfants, se focaliser sur ce qui les fera rêver un peu : “faire le site Internet qui permet aux parents de regarder les comptes en banque”, “réaliser un programme qui permet de trouver les déviations pour les trains quand il y a des travaux sur les voies”, “permettre l’affichage des temps à attendre quand on attend les bus”, …)
+- Expliquer ce qui nous fait rêver dans l’informatique
+- Expliquer comment on s’est mis à l’informatique
+ 
+\# 2. Demander aux élèves à quoi sert l’informatique.
+   
+- Distribuer à chacun une planche avec des images d’objets [insérer planche objets]
+- Leur demander s’il y a de l’informatique dans les objets représentés.
+- Debriefer tous ensemble.
+- Leur faire prendre conscience qu’il y a de l’informatique partout.
+
+
 ## Atelier préparatoire
 
-Définir un zonage dans la salle de classe pour délimiter l’espace pouvant être emprunté.
+Définir un zonage dans la salle de classe pour délimiter l’espace pouvant être emprunté. Il est plus facile d'être dans un espace ouvert comme la cours d'école ou gymnase et d'utiliser des plots, cerceaux, craies pour dessiner sur le sol.
 
 Définir un objectif : récupérer le trésor correspondant à un objet clairement identifié dans la salle de classe ou tout autre lieu.
 
