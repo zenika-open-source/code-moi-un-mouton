@@ -19,7 +19,7 @@ Un atelier de pré-requis peut être réalisé par les instituteurs ou les insti
 
 [Descriptif de l'atelier de pré-repuis](ateliers/atelier_pre-requis.md) 
 
-Il peut être aussi réalisé par les intervenants Zenika. Cela fait un atelier supplémentaire à animer mais c’est un bon moyen pour faire connaissance avec les élèves et se familiariser avec les classes, sans se lancer directement sur les PC. On peut aussi profiter de cet atelier supplémentaire pour vérifier, une fois l’atelier terminé, la configuration des PC et installer si besoin Scratch et Thymio.
+Il peut être aussi réalisé par les intervenants externes. Cela fait un atelier supplémentaire à animer mais c’est un bon moyen pour faire connaissance avec les élèves et se familiariser avec les classes, sans se lancer directement sur les PC. On peut aussi profiter de cet atelier supplémentaire pour vérifier, une fois l’atelier terminé, la configuration des PC et installer si besoin Scratch et Thymio.
 
 #### Atelier de pré-requis
 C’est une introduction à la notion de programmation.
