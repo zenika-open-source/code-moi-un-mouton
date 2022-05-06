@@ -25,7 +25,7 @@ Dans la classe, avec tous les élèves, lors de la 1re rencontre.
 ## Atelier préparatoire
 (1h30 environ)
 
-**Définir un zonage** dans la salle de classe pour délimiter l’espace pouvant être emprunté. Il est plus facile d'être dans un espace ouvert comme la cour d'école ou gymnase et d'utiliser des plots, cerceaux, craies pour dessiner sur le sol.
+**Définir un zonage** dans la salle de classe pour délimiter l’espace pouvant être emprunté. Il est plus facile d'être dans un espace ouvert comme la cour d'école ou gymnase et d'utiliser des plots, cerceaux, craies pour dessiner sur le sol. Un exemple de carte au trésor est donné en [ressource](../assets/CM1M_Treasure_map.pdf) ; nous pouvons imprimer une carte par binôme, ce qui pourra aider l'élève à la compréhension de la signalétique (par exemple : plot = palmier, cerceau = rocher, etc.). (L'impression du pdf en 4 pages par feuilles est suffisant).
 
 **Définir un objectif :** récupérer le trésor correspondant à un objet clairement identifié dans la salle de classe ou tout autre lieu.
 

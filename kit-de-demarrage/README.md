@@ -16,29 +16,26 @@ Un exemple de [mail](emails/email_presentation_ateliers.md) à envoyer aux écol
 Les différents ateliers sont présentés en détail dans les rubriques correspondantes. 
 
 Un atelier de pré-requis peut être réalisé par les instituteurs ou les institutrices comme exercice préparatoire de manière à aborder la notion de programme.
+Il peut aussi être réalisé par les intervenants externes. Cela fait un atelier supplémentaire à animer mais c’est un bon moyen pour faire connaissance avec les élèves et se familiariser avec les classes, sans se lancer directement sur les PC. On peut aussi profiter de cet atelier supplémentaire pour vérifier, une fois l’atelier terminé, la configuration des PC et installer si besoin Scratch et Thymio.
 
-[Descriptif de l'atelier de pré-repuis](ateliers/atelier_pre-requis.md) 
-
-Il peut être aussi réalisé par les intervenants externes. Cela fait un atelier supplémentaire à animer mais c’est un bon moyen pour faire connaissance avec les élèves et se familiariser avec les classes, sans se lancer directement sur les PC. On peut aussi profiter de cet atelier supplémentaire pour vérifier, une fois l’atelier terminé, la configuration des PC et installer si besoin Scratch et Thymio.
-
-#### Atelier de pré-requis
+### Atelier de pré-requis
 C’est une introduction à la notion de programmation.
 L'objectif est d'introduire des nouveaux concepts et des nouveaux mots dans le vocabulaire des enfants.
 
 [Descriptif de l'atelier de pré-requis](ateliers/atelier_pre-requis.md)
 
 
-#### Thymio
+### Thymio
 C’est une découverte ludique très appréciée des enfants leurs permettant d’animer un [robot Thymio](https://www.thymio.org/fr:thymio) dans un cadre jalonné par des objectifs progressifs.
 
 [Descriptif de l'atelier Thymio](ateliers/atelier_thymio.md)
 
-#### Scratch
+### Scratch
 [Scratch](https://scratch.mit.edu/)  est un environnement de développement destiné à un usage pédagogique qui est adapté pour des enfants. Il permet à l'enfant de réaliser un programme informatique en manipulant des blocs de couleurs.
 
 [Descriptif de l'atelier Scratch](ateliers/atelier_scratch.md)
 
-#### Déconnecté
+### Déconnecté
 Les activités proposées sont issues du livre [CS Unplugged](https://classic.csunplugged.org/books) qui fait référence dans ce domaine et qui propose des activités qui ont été éprouvées par de nombreuses classes.
 
 [Descriptif des ateliers déconnectés](ateliers/atelier_deconnecte.md)
