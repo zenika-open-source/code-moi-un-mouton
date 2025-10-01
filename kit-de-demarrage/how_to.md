@@ -114,7 +114,30 @@ A titre d'exemple voici les dates des ateliers réalisés dans la première édi
 
 ### 1. Préparer un fichier pour noter les inscriptions
 
+Un simple tableau Google Sheet peut-être déposé dans le Drive partagé de votre agence avec le nom/prénom de chaque enfant, leur date de naissance, le client éventuellement pour essayer d'équilibrer.
+
+
 ### 2. Envoyer un email / message chez nos clients
+
+Voici un exemple de mail :
+
+```
+Nous organisons le xxx à l'agence Zenika de xxx un atelier de promotion du développement auprès des enfants.
+
+Cette session, encadré par 2 adultes, durera 2h et sera l'occasion pour une dizaine d'enfants de 8 à 14 ans de découvrir ou re découvrir le développement informatique en s'amusant avec des robots.
+
+L'atelier se fera sans les personnes accompagnant pour éviter toute distraction 😁.
+Le matériel est fourni par Zenika.
+
+Déroulé de l'après-midi :
+- 13h30 - 14h, accueil des enfants
+- 14h -> 16h : atelier
+- 16h, goûter offert par Zenika
+
+Si cela intéresse du monde, il me faudrait juste les nom/prénoms et date de naissance des enfants.
+
+Bien sur, ces données ne servent qu'à l'organisation de l'évènement.
+```
 
 ## 3. Réaliser les ateliers
 
