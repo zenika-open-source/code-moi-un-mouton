@@ -48,7 +48,7 @@ La micro:bit n'est pas juste une carte ; elle est remplie de **super-pouvoirs** 
 
 ### 💡 Un exemple simple :
 
-Disons que tu veux que ta micro:bit affiche un cœur ❤️ quand tu appuies sur le bouton $\mathbf{A}$ :
+Disons que tu veux que ta micro:bit affiche un cœur ❤️ quand tu appuies sur le bouton **A** :
 
 * Tu prends le **bloc "quand le bouton A est pressé"** (dans la catégorie *Entrée*).
 * Tu y insères le **bloc "afficher icône cœur"** (dans la catégorie *Base*).
