@@ -57,7 +57,7 @@ Disons que tu veux que ta micro:bit affiche un cœur ❤️ quand tu appuies sur
 
 ---
 
-## Quelques idées de projets 
+## Quelques idées de projets 💡
 
 - Faire clignoter des animaux (de https://microbit.org/fr/projects/make-it-code-it/flashing-emotions/).
 
