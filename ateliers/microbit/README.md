@@ -70,7 +70,7 @@ Disons que tu veux que ta micro:bit affiche un cœur ❤️ quand tu appuies sur
 - Minuteur avec son une fois terminé
  
 
-## Pour aller plus loin
+## Pour aller plus loin 🚀
 
 Les cartes microbit peuvent être utilisées dans des robots tels que celui-ci : 
 ![Robot](./images/robot.png)
