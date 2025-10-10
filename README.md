@@ -16,13 +16,10 @@ Différents [Ateliers](https://github.com/zenika-open-source/code-moi-un-mouton/
 On peut faire aussi faire des katas et du clean code avec Scratch ! Exemples en [Scratch 2](ateliers/Scratch2) et [Scratch 3](ateliers/Scratch3).
 
 ### Avec Thymio :
-[Exemples d'exercices](ateliers/thymio) que vous proposez pour programmer des robots Thymio.
-
+[Exemples d'exercices](ateliers/thymio) que vous proposez pour programmer des robots [Thymio](https://www.thymio.org/fr/).
 
 ### Avec Microbit :
-
-🚧 en cours
-
+[Exemples d'exercices](ateliers/microbit) que vous pouvez proposer pour utiliser des cartes [Microbit](https://microbit.org/fr/).
 
 ## 📌 Ressources
 - https://www.csunplugged.org/
