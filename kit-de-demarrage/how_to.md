@@ -134,10 +134,43 @@ Déroulé de l'après-midi :
 - 14h -> 16h : atelier
 - 16h, goûter offert par Zenika
 
-Si cela intéresse du monde, il me faudrait juste les nom/prénoms et date de naissance des enfants.
+Si cela intéresse du monde, il me faudrait juste les nom/prénoms et date de naissance des enfants et emails des parents.
 
 Bien sur, ces données ne servent qu'à l'organisation de l'évènement.
 ```
+
+### 3. Autorisation Parentale
+
+L'évenement ne se réroulant pas dans une école, on est pas sous la résponsabilité de l'équipe, et demandant aux parents de ne pas rester à l'atelier, on devient donc responsables des enfants.
+Il est donc nécessaire de demander une autorisation parentale à tout les parents pour participer à l'atelier.
+Cette autorisation permet aussi de demander l'autorisation de prendre des photos et pouvoir utiliser les photos pour promouvoir les activités. Pour ce point, nous préconisons ne rester avec des photos sans visage apparent.
+
+Vous pouvez retrouver le document de l'autoriation parentale :
+
+- [Version Google Docs](https://docs.google.com/document/d/1g0vNQADQPNTInKoMHMf6iXisXeNnle32bfVtKcuf8PY/edit?tab=t.0) (réservé aux salariés de Zenika)
+- [Version markdown](./autorisation-parentale.md)
+
+### 4. Envoyer un mail au participants
+
+Pour maximiser l'engagement, il est nécessaire d'envoyer un email au participant pour confirmer la participation et demander l'autorisation parentale.
+
+Voici donc un exemple d'email : 
+
+```
+Bonjour,
+
+Merci pour votre inscription à l'atelier de développement qui aura lieu le {date} de {horaires} dans les locaux de l'agence {Zenika} situés au {adresse}.
+
+Vous pouvez directement venir au {instruction pour venir dans le lieu}.
+
+Les portes seront ouvertes à partir de {heure d'accueil} pour pouvoir démarrer à {heure de début}. Les personnes accompagnant les enfants sont priées de revenir pour le goûter prévu par Zenika aux alentours de {heure de fin}.
+
+Merci de me renvoyer le document présent en PJ rempli ou de nous le donner mercredi en arrivant.
+
+--
+L'équipe code moi un mouton
+```
+
 
 ## 3. Réaliser les ateliers
 
@@ -147,7 +180,7 @@ Voir [atelier Thymio](ateliers/atelier_thymio.md) et [atelier Scratch](ateliers/
 
 Ceci afin de partager ces moments et améliorer les prochains ateliers
 
-## 14. A la fin des ateliers faire une rétrospective (avec les enseignants et les intervenants dans le cadre d'évènements dans les écoles)
+## 5. A la fin des ateliers faire une rétrospective (avec les enseignants et les intervenants dans le cadre d'évènements dans les écoles)
 
 Ce point est important pour partager nos succès et points d’améliorations, mais aussi se projeter sur la suite.
 
