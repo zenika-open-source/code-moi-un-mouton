@@ -100,6 +100,8 @@ mais s’il détecte un obstacle devant, il doit contourner l'obstacle.
 
 Commencer par créer un parcours d’obstacles avec deux murs parallèles (des cartons, des livres, etc.).
 Ajouter des obstacles sur le parcours (plots, ou constructions en lego).
+La construction du parcours est un moment très apprécié par les entfants qui permet de faire une pause dans la programmation et de se défouler un peu.
+
 Le robot doit avancer tout droit, mais s’il détecte un obstacle devant, il doit contourner l'obstacle.
 Il n'y a pas de solution unique pour cet exercice, il faut laisser les enfants trouver leur propre solution.
 Il est intéressant de faire plusieurs essais pour trouver la solution qui fonctionne le mieux.
@@ -111,7 +113,7 @@ Si on détecte un obstacle, on tourne pour l’éviter (réfléchir à quel sens
 Sinon on avance si l’espace est libre devant.
 Utiliser un bouton pour commencer à avancer et pour arrêter.
 
-Bonus: si on détecte un obstacle, on peut faire reculer le robot en tournant, démarrer un minuteur. Quand le minuteur est terminé, on avance à nouveau tout droit.
+Bonus : si on détecte un obstacle, on peut faire reculer le robot en tournant, démarrer un minuteur. Quand le minuteur est terminé, on avance à nouveau tout droit.
 
 Bonus 2 : Utilisez un état pour activer ou désactiver les actions du robot. Par exemple, on peut utiliser un bouton pour activer le mode "parcours d'obstacles" et un autre bouton pour désactiver ce mode. Lorsque le mode est activé, le robot doit suivre les instructions pour éviter les obstacles. Lorsque le mode est désactivé, le robot doit s'arrêter.
 
@@ -121,10 +123,12 @@ Bonus 2 : Utilisez un état pour activer ou désactiver les actions du robot. Pa
 - [Solution de l'exercice 4 : reculer](exercice4bis.vpl3)
 - [Solution de l'exercice 4 : bonus](exercice5.vpl3)
 
+### Conseils pour les animateurs
+- Laissez les enfants trouver leur propre solution, il n'y a pas de solution unique pour cet exercice.
+- Encouragez les enfants à faire plusieurs essais pour trouver la solution qui fonctionne le mieux.
+- Pour utiliser un minuteur, il faut modifier l'interface VPL 3 pour afficher les nouveaux blocs de minuteur. Pour cela, il faut cliquer sur le bouton en haut à droite de l'interface VPL 3, puis cliquer sur les blocs "Démarrer un minuteur" et "Évènement régulier"
 
 ## Ressources
 - [Documentation officielle Thymio](https://www.thymio.org/)
 
 ---
-
-*Dernière mise à jour : 2024*
