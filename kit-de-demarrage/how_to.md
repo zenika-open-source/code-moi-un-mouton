@@ -154,22 +154,7 @@ Vous pouvez retrouver le document de l'autoriation parentale :
 
 Pour maximiser l'engagement, il est nécessaire d'envoyer un email au participant pour confirmer la participation et demander l'autorisation parentale.
 
-Voici donc un exemple d'email : 
-
-```
-Bonjour,
-
-Merci pour votre inscription à l'atelier de développement qui aura lieu le {date} de {horaires} dans les locaux de l'agence {Zenika} situés au {adresse}.
-
-Vous pouvez directement venir au {instruction pour venir dans le lieu}.
-
-Les portes seront ouvertes à partir de {heure d'accueil} pour pouvoir démarrer à {heure de début}. Les personnes accompagnant les enfants sont priées de revenir pour le goûter prévu par Zenika aux alentours de {heure de fin}.
-
-Merci de me renvoyer le document présent en PJ rempli ou de nous le donner mercredi en arrivant.
-
---
-L'équipe code moi un mouton
-```
+[Voici donc un exemple d'email](emails/email_participant.md)
 
 
 ## 3. Réaliser les ateliers
@@ -188,3 +173,7 @@ Il est nécessaire que cette rétrospective soit animé par un coatch agile.
 
 La synthèse de notre première rétrospective en image :
 ![Retrospective](assets/retro.jpg)
+
+Pour les ateliers dans l'agence, il est intéressant d'envoyer un mail de remerciement aux participants et de partager les photos prises lors de l'atelier. Cela permet de garder un lien avec les participants et de promouvoir les activités auprès des autres clients.
+
+[Exemple de mail de remerciement](emails/email_remerciment.md)
