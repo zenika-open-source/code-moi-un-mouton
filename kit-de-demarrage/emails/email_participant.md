@@ -9,4 +9,4 @@ Les portes seront ouvertes à partir de {heure d'accueil} pour pouvoir démarrer
 Merci de me renvoyer l'attestation présente en PJ remplie ou de nous la donner mercredi en arrivant.
 
 --
-L'équipe code moi un mouton
+L'équipe Code moi un mouton
