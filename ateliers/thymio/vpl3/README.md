@@ -5,8 +5,8 @@ Bienvenue dans les exercices Thymio VPL 3. Ces ateliers vous permettront de déc
 
 ## Prérequis
 - Robot Thymio II
-- Logiciel Thymio Suite avec l'editeur VPL 3
-- Clé Thymio connecté
+- Logiciel Thymio Suite avec l'éditeur VPL 3
+- Clé Thymio connectée
 
 ## Contenu des exercices
 - [ ] Exercice 1 : Avancer
