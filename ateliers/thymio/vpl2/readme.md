@@ -10,7 +10,7 @@ Découvrir la programmation avec Thymio.
 
 On présente le robot et ses possibilités : déplacement, changement de couleurs, capteurs...
 
-Puis, on présente Thymio VPL aux enfants en expliquant le principe de chaque block et la notion SI -> ALORS.
+Puis, on présente Thymio VPL aux enfants en expliquant le principe de chaque bloc et la notion SI -> ALORS.
 
 On fait des groupes, composés au maximum de X enfants (X à définir en fonction des conditions, pas trop nombreux pour éviter de délaisser des enfants). Des groupes de deux fonctionnent plutôt bien. Menez une attention particulière aux enfants les plus jeunes.
 
