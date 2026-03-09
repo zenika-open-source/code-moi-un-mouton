@@ -6,7 +6,7 @@ Découvrir la programmation avec Thymio.
 
 ## Présentation
 
-Thymio suite viens avec plusieurs outils pour programmer le robot : 
+Thymio Suite vient avec plusieurs outils pour programmer le robot : 
 
 ![Menu de Thymio suite](menu.png)
 
