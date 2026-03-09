@@ -100,7 +100,7 @@ mais s’il détecte un obstacle devant, il doit contourner l'obstacle.
 
 Commencer par créer un parcours d’obstacles avec deux murs parallèles (des cartons, des livres, etc.).
 Ajouter des obstacles sur le parcours (plots, ou constructions en lego).
-La construction du parcours est un moment très apprécié par les entfants qui permet de faire une pause dans la programmation et de se défouler un peu.
+La construction du parcours est un moment très apprécié par les enfants qui permet de faire une pause dans la programmation et de se défouler un peu.
 
 Le robot doit avancer tout droit, mais s’il détecte un obstacle devant, il doit contourner l'obstacle.
 Il n'y a pas de solution unique pour cet exercice, il faut laisser les enfants trouver leur propre solution.
