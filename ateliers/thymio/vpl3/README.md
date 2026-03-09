@@ -14,7 +14,7 @@ Bienvenue dans les exercices Thymio VPL 3. Ces ateliers vous permettront de déc
 - [ ] Exercice 3 : Me suivre
 - [ ] Exercice 4 : Parcours d’obstacles
 
-## Introduction
+## Présentation de l'atelier
 
 Présenter à tout le groupe [la présentation suivante](presentation.pdf).
 - Montrer le robot en action
