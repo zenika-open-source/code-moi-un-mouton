@@ -20,7 +20,7 @@ Présenter à tout le groupe [la présentation suivante](presentation.pdf).
 - Montrer le robot en action
 - Présentez l'interface VPL 3
 - Expliquer la notion d'action et évènement
-- Expliquer comment executer le code sur le robot
+- Expliquer comment exécuter le code sur le robot
 - Présentez l'organisation des ateliers
 
 ## Exercice 1 : Avancer
