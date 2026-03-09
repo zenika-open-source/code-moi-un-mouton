@@ -52,7 +52,7 @@ Alors
 
 ### Présentation
 
-On va utiliser tout les boutons de direction pour faire avancer le robot dans différentes directions.
+On va utiliser tous les boutons de direction pour faire avancer le robot dans différentes directions.
 
 ### Instructions
 
