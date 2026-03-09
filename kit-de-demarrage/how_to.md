@@ -176,4 +176,4 @@ La synthèse de notre première rétrospective en image :
 
 Pour les ateliers dans l'agence, il est intéressant d'envoyer un mail de remerciement aux participants et de partager les photos prises lors de l'atelier. Cela permet de garder un lien avec les participants et de promouvoir les activités auprès des autres clients.
 
-[Exemple de mail de remerciement](emails/email_remerciment.md)
+[Exemple de mail de remerciement](emails/email_remerciement.md)
