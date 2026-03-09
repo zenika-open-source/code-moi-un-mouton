@@ -17,7 +17,7 @@ Thymio Suite vient avec plusieurs outils pour programmer le robot :
 - Aseba Studio
 - Thonny Python
 
-## Excercices
+## Exercices
 
 Plusieurs version des exercices sont disponibles :
 
