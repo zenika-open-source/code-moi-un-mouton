@@ -41,21 +41,6 @@
 					]
 				},
 				{
-					"name": "state 256",
-					"disabled": false,
-					"locked": false,
-					"param": [
-						true,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false
-					]
-				},
-				{
 					"name": "move",
 					"disabled": false,
 					"locked": false,
@@ -89,21 +74,6 @@
 						0,
 						0,
 						0
-					]
-				},
-				{
-					"name": "state 256",
-					"disabled": false,
-					"locked": false,
-					"param": [
-						true,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false
 					]
 				},
 				{
@@ -143,21 +113,6 @@
 					]
 				},
 				{
-					"name": "state 256",
-					"disabled": false,
-					"locked": false,
-					"param": [
-						true,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false
-					]
-				},
-				{
 					"name": "move",
 					"disabled": false,
 					"locked": false,
@@ -194,26 +149,11 @@
 					]
 				},
 				{
-					"name": "state 256",
-					"disabled": false,
-					"locked": false,
-					"param": [
-						true,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false
-					]
-				},
-				{
 					"name": "move",
 					"disabled": false,
 					"locked": false,
 					"param": [
-						5
+						6
 					]
 				},
 				{
@@ -251,21 +191,6 @@
 					"param": [
 						0
 					]
-				},
-				{
-					"name": "set state 256",
-					"disabled": false,
-					"locked": false,
-					"param": [
-						false,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false
-					]
 				}
 			],
 			"disabled": false,
@@ -278,43 +203,7 @@
 					"disabled": false,
 					"locked": false,
 					"param": [
-						0
-					]
-				},
-				{
-					"name": "set state 256",
-					"disabled": false,
-					"locked": false,
-					"param": [
-						true,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false
-					]
-				}
-			],
-			"disabled": false,
-			"locked": false
-		},
-		{
-			"blocks": [
-				{
-					"name": "state 256",
-					"disabled": false,
-					"locked": false,
-					"param": [
-						true,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false
+						1
 					]
 				},
 				{
@@ -337,36 +226,6 @@
 					"locked": false,
 					"param": [
 						0
-					]
-				},
-				{
-					"name": "state 256",
-					"disabled": false,
-					"locked": false,
-					"param": [
-						true,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false
-					]
-				},
-				{
-					"name": "set state 256",
-					"disabled": false,
-					"locked": false,
-					"param": [
-						false,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false,
-						false
 					]
 				},
 				{
