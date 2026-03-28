@@ -1,0 +1,22 @@
+
+  vitepress v1.6.4
+
+- building client + server bundles...
+
+
+(!) Found dead link http://localhost:9999 in file scratchv3-offline/README.md
+
+If this is expected, you can disable this check via config. Refer: https://vitepress.dev/reference/site-config#ignoredeadlinks
+
+x Build failed in 554ms
+[31m✖[0m building client + server bundles...
+build error:
+[vitepress] 1 dead link(s) found.
+[vitepress] 1 dead link(s) found.
+    at Object.renderStart (file:///Users/jean-phibaconnais/dev/git/code-moi-un-mouton/node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js:45027:15)
+    at file:///Users/jean-phibaconnais/dev/git/code-moi-un-mouton/node_modules/rollup/dist/es/shared/node-entry.js:22626:40
+    at async Promise.all (index 0)
+    at async PluginDriver.hookParallel (file:///Users/jean-phibaconnais/dev/git/code-moi-un-mouton/node_modules/rollup/dist/es/shared/node-entry.js:22536:9)
+    at async Bundle.generate (file:///Users/jean-phibaconnais/dev/git/code-moi-un-mouton/node_modules/rollup/dist/es/shared/node-entry.js:20650:13)
+    at async file:///Users/jean-phibaconnais/dev/git/code-moi-un-mouton/node_modules/rollup/dist/es/shared/node-entry.js:23613:27
+    at async catchUnfinishedHookActions (file:///Users/jean-phibaconnais/dev/git/code-moi-un-mouton/node_modules/rollup/dist/es/shared/node-entry.js:22980:16)

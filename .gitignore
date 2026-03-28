@@ -4,3 +4,6 @@
 
 # Finder MACOS preferences
 .DS_Store
+
+.vitepress
+node_modules/
