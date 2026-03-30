@@ -7,3 +7,4 @@
 
 .vitepress
 node_modules/
+build_log.txt
