@@ -4,6 +4,14 @@ export default defineConfig({
   title: "Code-moi un mouton",
   description: "Initier les enfants au code et à la tech",
   base: '/code-moi-un-mouton/',
+  ignoreDeadLinks: [
+    /^http:\/\/localhost/,
+    /\.sb[23]$/,
+    /\.vpl3$/
+  ],
+  vite: {
+    assetsInclude: ['**/*.sb2', '**/*.sb3', '**/*.vpl3']
+  },
   themeConfig: {
     nav: [
       { text: 'Accueil', link: '/' },
@@ -45,17 +53,19 @@ export default defineConfig({
           items: [
             { text: 'Tous les ateliers', link: '/ateliers/README' },
             { text: '🤖 Atelier IA', link: '/ateliers/Atelier-IA/README' },
-            { text: '🐢 Thymio', items: [
+            {
+              text: '🐢 Thymio', items: [
                 { text: 'Présentation', link: '/ateliers/thymio/readme' },
                 { text: 'VPL 2', link: '/ateliers/thymio/vpl2/readme' },
                 { text: 'VPL 3', link: '/ateliers/thymio/vpl3/README' }
-              ] 
+              ]
             },
             { text: '📟 Microbit', link: '/ateliers/microbit/README' },
-            { text: '😸 Scratch', items: [
+            {
+              text: '😸 Scratch', items: [
                 { text: 'Scratch 2', link: '/ateliers/Scratch/Scratch2/README' },
                 { text: 'Scratch 3', link: '/ateliers/Scratch/Scratch3/README' }
-              ] 
+              ]
             },
             { text: '🧱 Lego Mindstorms', link: '/ateliers/lego-mindstorms/README' }
           ]
