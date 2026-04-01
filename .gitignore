@@ -4,3 +4,8 @@
 
 # Finder MACOS preferences
 .DS_Store
+
+.vitepress/cache
+.vitepress/dist
+node_modules/
+build_log.txt

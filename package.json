@@ -1,0 +1,29 @@
+{
+  "name": "code-moi-un-mouton",
+  "version": "1.0.0",
+  "description": "> Code-moi un mouton est un programme créé par des Zenikas dans le but premier est de contribuer à ce que notre métier soit plus égalitaire et pourquoi pas inspirer d’autres initiatives qui participeront à améliorer notre monde de dev.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm run docs:dev",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanphi-baconnais/code-moi-un-mouton.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jeanphi-baconnais/code-moi-un-mouton/issues"
+  },
+  "homepage": "https://github.com/jeanphi-baconnais/code-moi-un-mouton#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.31"
+  }
+}
