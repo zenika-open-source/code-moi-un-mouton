@@ -26,10 +26,3 @@ features:
     details: Une initiative Zenika pour promouvoir l'égalité et la mixité dans la tech dès le plus jeune âge.
 ---
 
-<style>
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: linear-gradient(135deg, #b51432 10%, #ff4d4d 90%);
-  --vp-home-hero-image-filter: drop-shadow(0 0 10px rgba(181, 20, 50, 0.3));
-}
-</style>

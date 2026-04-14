@@ -4,6 +4,7 @@ export default defineConfig({
   title: "Code-moi un mouton",
   description: "Initier les enfants au code et à la tech",
   base: '/code-moi-un-mouton/',
+  cleanUrls: true,
   ignoreDeadLinks: [
     /^http:\/\/localhost/,
     /\.sb[23]$/,
