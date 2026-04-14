@@ -10,7 +10,7 @@ export default defineConfig({
     /\.vpl3$/
   ],
   vite: {
-    assetsInclude: ['**/*.sb2', '**/*.sb3', '**/*.vpl3']
+    assetsInclude: ['**/*.sb2', '**/*.sb3', '**/*.vpl3', '**/*.pdf']
   },
   themeConfig: {
     nav: [
