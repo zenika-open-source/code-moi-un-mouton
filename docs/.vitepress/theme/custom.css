@@ -1,0 +1,142 @@
+/**
+ * Custom Design System for Code-moi un mouton
+ */
+
+:root {
+  --vp-c-brand: #b51432;
+  --vp-c-brand-light: #d61a3d;
+  --vp-c-brand-lighter: #f51d46;
+  --vp-c-brand-dark: #8c0f27;
+  --vp-c-brand-darker: #6b0b1e;
+
+  /* Premium effects */
+  --glass-bg: rgba(255, 255, 255, 0.05);
+  --glass-border: rgba(255, 255, 255, 0.1);
+}
+
+.dark {
+  --glass-bg: rgba(0, 0, 0, 0.2);
+  --glass-border: rgba(255, 255, 255, 0.05);
+}
+
+/* Workshop Grid */
+.workshop-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 32px;
+  margin: 40px 0;
+}
+
+.workshop-card {
+  position: relative;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 16px;
+  padding: 32px;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  height: 100%;
+}
+
+.workshop-card:hover {
+  border-color: var(--vp-c-brand);
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(181, 20, 50, 0.15);
+}
+
+.workshop-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: linear-gradient(90deg, var(--vp-c-brand), #ff4d4d);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.workshop-card:hover::before {
+  opacity: 1;
+}
+
+.workshop-card h2 {
+  margin: 0 0 16px 0 !important;
+  font-size: 24px !important;
+  border-top: none !important;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.workshop-card p {
+  margin: 0 0 24px 0 !important;
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--vp-c-text-2);
+  flex-grow: 1;
+}
+
+.workshop-card .links {
+  margin-top: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+}
+
+.workshop-card .btn-link {
+  font-weight: 600;
+  color: var(--vp-c-brand);
+  text-decoration: none;
+  font-size: 15px;
+  display: inline-flex;
+  align-items: center;
+  transition: all 0.2s ease;
+}
+
+.workshop-card .btn-link:hover {
+  color: var(--vp-c-brand-light);
+  transform: translateX(4px);
+}
+
+.workshop-card .secondary-links {
+  font-size: 14px;
+  color: var(--vp-c-text-3);
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.workshop-card .secondary-links a {
+  color: var(--vp-c-text-2);
+  text-decoration: none;
+}
+
+.workshop-card .secondary-links a:hover {
+  color: var(--vp-c-brand);
+}
+
+/* Home Page Enhancements */
+.VPHero {
+  padding-top: 40px !important;
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+.VPHero .name {
+  animation: float 4s ease-in-out infinite;
+  background: linear-gradient(135deg, #b51432 10%, #ff4d4d 90%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
+.VPHero .image-src {
+  filter: drop-shadow(0 0 10px rgba(181, 20, 50, 0.3)) !important;
+}
