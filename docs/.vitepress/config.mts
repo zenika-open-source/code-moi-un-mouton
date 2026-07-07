@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Code-moi un mouton",
   description: "Initier les enfants au code et à la tech",
+  base: '/',
   head: [
     [
       'script',
@@ -14,7 +15,6 @@ export default defineConfig({
       "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-KN2CTZ7KLY');"
     ]
   ],
-  base: '/code-moi-un-mouton/',
   cleanUrls: true,
   ignoreDeadLinks: [
     /^http:\/\/localhost/,
