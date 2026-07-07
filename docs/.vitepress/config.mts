@@ -4,6 +4,17 @@ export default defineConfig({
   title: "Code-moi un mouton",
   description: "Initier les enfants au code et à la tech",
   base: '/',
+  head: [
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-KN2CTZ7KLY' }
+    ],
+    [
+      'script',
+      {},
+      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-KN2CTZ7KLY');"
+    ]
+  ],
   cleanUrls: true,
   ignoreDeadLinks: [
     /^http:\/\/localhost/,
