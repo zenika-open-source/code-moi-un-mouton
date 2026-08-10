@@ -4,5 +4,5 @@ Cette commande permet de lancer une version offline de Scratch 3. Une fois la co
 à l'adresse http://localhost:9999.
 
 ```sh
-tar -xvzf scratch.tgz && cd scratch && python -m SimpleHTTPServer 9999
+tar -xvzf scratch_v3.tgz && cd scratch && python3 -m http.server 9999
 ```
